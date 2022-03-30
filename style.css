@@ -1,0 +1,25 @@
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    font-size: medium;
+    font-weight: bold;
+    font-family:sans-serif; 
+}
+ul>li{
+    font-size: medium;
+    font-weight: bold;
+    font-family:sans-serif;
+}
+button{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 2px black;
+    cursor: pointer;
+}
